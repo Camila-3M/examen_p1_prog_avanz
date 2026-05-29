@@ -1,4 +1,4 @@
-package com.exa_parcial.exa_parcial.domain.service;
+package com.exa_parcial.EXA_Parcial.domain.service;
 
 import dev.langchain4j.service.UserMessage;
 import dev.langchain4j.service.spring.AiService;
