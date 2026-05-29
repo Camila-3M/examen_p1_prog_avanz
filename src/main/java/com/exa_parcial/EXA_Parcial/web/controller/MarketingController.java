@@ -1,6 +1,6 @@
-package com.exa_parcial.exa_parcial.web.controller;
+package com.exa_parcial.EXA_Parcial.web.controller;
 
-import com.exa_parcial.exa_parcial.domain.service.EduSmartAIService;
+import com.exa_parcial.EXA_Parcial.domain.service.EduSmartAIService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
