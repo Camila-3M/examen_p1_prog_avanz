@@ -1,4 +1,4 @@
-package com.exa_parcial.exa_parcial.persistence;
+package com.exa_parcial.EXA_Parcial.persistence;
 
 import jakarta.persistence.*;
 import java.math.BigDecimal;
